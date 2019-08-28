@@ -9,13 +9,13 @@
             }
         },
         "serviceBusTopicName": {
-            "type": "string",
+            "type": "topic-inquiries",
             "metadata": {
                 "description": "Name of the Topic"
             }
         },
         "serviceBusSubscriptionName": {
-            "type": "string",
+            "type": "subscription-salesforceexport",
             "metadata": {
                 "description": "Name of the Subscription"
             }

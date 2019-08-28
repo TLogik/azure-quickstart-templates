@@ -5,14 +5,8 @@
         "serviceBusNamespaceName": {
             "value": "GEN-UNIQUE"
         },
-        "serviceBusTopicName": {
-            "value": "GEN-UNIQUE"
-        },
-        "serviceBusSubscriptionName": {
-            "value": "GEN-UNIQUE"
-        },
         "serviceBusApiVersion": {
-            "value": "2015-08-01"
+            "value": "2017-04-01"
         }
     }
 }
